@@ -2,8 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
-### E-mail para contato: b.serfiot.pro@gmail.com
-
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSerfiot&show_icons=true&theme=dark)
 
 ## Tecnologias na qual trabalho🖥️

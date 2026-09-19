@@ -37,8 +37,10 @@ Olá, me chamo Bruno. Sou desenvolvedor web e transformo ideias em aplicações 
 
 ---
 
+## 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=DevSerfiot&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevSerfiot&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

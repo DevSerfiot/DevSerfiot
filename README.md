@@ -48,9 +48,10 @@ Olá, me chamo Bruno. Sou desenvolvedor web e transformo ideias em aplicações 
 ## Contato
 
 <p>
-  <a href="https://github.com/SEU-USUARIO">GitHub</a> •
-  <a href="https://linkedin.com/in/SEU-LINK">LinkedIn</a> •
+  <a href="https://github.com/DevSerfiot">GitHub</a> •
+  <a href="https://linkedin.com/in/[SEU-LINK](https://www.linkedin.com/in/bruno-serfiot-27aa122b0/)">LinkedIn</a> •
   <a href="https://SEU-PORTFOLIO.com">Portfólio</a>
+  <a href="https://[SEU-PORTFOLIO.com](https://www.instagram.com/b.serfiot.dev/?hl=pt-br)">Instagram</a>
 </p>
 
 <p align="center">

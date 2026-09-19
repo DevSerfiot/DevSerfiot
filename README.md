@@ -38,12 +38,7 @@ Olá, me chamo Bruno. Sou desenvolvedor web e transformo ideias em aplicações 
 ---
 
 <p align="center">
-  <a href="https://github.com/DevSerfiot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSerfiot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  </a>
-  <a href="https://github.com/DevSerfiot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSerfiot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true" />
 </p>
 
 ---

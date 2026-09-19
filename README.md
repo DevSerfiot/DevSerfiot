@@ -1,41 +1,59 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ba854&height=120&section=header"/>
+<h1 align="center">Bruno</h1>
+<h3 align="center">Desenvolvedor Web • Websites</h3>
+
+<p align="center">
+  Desenvolvendo experiências digitais modernas com foco em performance,
+  design funcional e código limpo.
+</p>
+
+---
+
+## Sobre mim
+
+Olá, me chamo Bruno. Sou desenvolvedor web e transformo ideias em aplicações e websites modernos, com foco em interfaces intuitivas, performance e código bem estruturado. Estou sempre em busca de criar soluções digitais funcionais, escaláveis e visualmente marcantes.
+
+- Desenvolvimento Front-end e Back-end
+- Websites modernos e responsivos
+- Sistemas e automações
+- Aprendizado contínuo e projetos pessoais
+
+---
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" />
+</p>
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+|----------|-----------|
+| Portfólio Web | Meu portfólio profissional |
+| Server Core | Terminal em PowerShell para servidor local |
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5ba854&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+meu+nome+é+Bruno+Serfiot+;Sou+um+desenvolvedor+focado+em+software+e+website!;Seja+Bem-vindo+:%29)](https://git.io/typing-svg) 
+---
 
-## Minhas redes socias:
+## Estatísticas
 
-<div>
-<a href='https://www.instagram.com/b.serfiot.dev/' target='blank'><img src='https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white'><div>
-<a href='https://www.linkedin.com/feed/' target='blank'><img src='https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white'>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSerfiot&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSerfiot&hide_progress=trueicons=true&theme=dark)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSerfiot&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Contato
 
+<p>
+  <a href="https://github.com/SEU-USUARIO">GitHub</a> •
+  <a href="https://linkedin.com/in/SEU-LINK">LinkedIn</a> •
+  <a href="https://SEU-PORTFOLIO.com">Portfólio</a>
+</p>
 
-## Tecnologias na qual trabalho:
-
-[![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=)]
-[![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=)]
-[![JS](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=
-)]
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=
-)]
-
-## Ferramentas:
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
-
-## Estudando nesse momento:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ba854&height=120&section=footer"/>
-
-
+<p align="center">
+  <i>"Entre a luz e o lado sombrio, eu construo meu próprio caminho."</i>
+</p>

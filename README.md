@@ -55,5 +55,5 @@ Olá, me chamo Bruno. Sou desenvolvedor web e transformo ideias em aplicações 
 </p>
 
 <p align="center">
-  <i>"Entre a luz e o lado sombrio, eu construo meu próprio caminho."</i>
+  <i>"Que a força esteja com você"</i>
 </p>
